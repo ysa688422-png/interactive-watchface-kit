@@ -1,0 +1,4 @@
+interface:
+  display_name: "互动表盘制作"
+  short_description: "按具体设备型号与系统能力制作互动表盘、息屏样式或照片素材"
+  default_prompt: "使用 $interactive-watchface，根据我的设备型号、系统版本和素材制作可验证的表盘预览与对应交付物。"
