@@ -1,0 +1,98 @@
+{
+  "name": "Interactive Bloom",
+  "id": "100000001",
+  "previewImg": "preview",
+  "elementsNormal": [
+    {
+      "type": "type_element_lua",
+      "x": 0,
+      "y": 0,
+      "jsFileName": "_lua/watchface/main.lua",
+      "jsImgList": [
+        "_lua/watchface/background-lavender.bin",
+        "_lua/watchface/human-neutral-open.bin",
+        "_lua/watchface/human-neutral-closed.bin",
+        "_lua/watchface/human-smile-open.bin",
+        "_lua/watchface/human-smile-closed.bin",
+        "_lua/watchface/human-flower.bin",
+        "_lua/watchface/pull-start.bin",
+        "_lua/watchface/pull-1.bin",
+        "_lua/watchface/pull-bridge.bin",
+        "_lua/watchface/pull-mid.bin",
+        "_lua/watchface/pull-finish.bin",
+        "_lua/watchface/pull-2.bin",
+        "_lua/watchface/bomb.bin",
+        "_lua/watchface/flash.bin",
+        "_lua/watchface/smoke.bin",
+        "_lua/watchface/fireworks-1.bin",
+        "_lua/watchface/fireworks-2.bin",
+        "_lua/watchface/footer-lavender.bin",
+        "_lua/watchface/footer-black.bin",
+        "_lua/watchface/icon-steps-light.bin",
+        "_lua/watchface/icon-steps-dark.bin",
+        "_lua/watchface/icon-heart-light.bin",
+        "_lua/watchface/icon-heart-dark.bin",
+        "_lua/watchface/ui-background-shade.bin"
+      ]
+    }
+  ],
+  "elementsAod": [
+    {
+      "type": "element",
+      "x": 0,
+      "y": 0,
+      "image": "aod-background"
+    },
+    {
+      "type": "widge_dignum",
+      "x": 98,
+      "y": 358,
+      "dataSrc": "0811",
+      "showCount": 2,
+      "showZero": true,
+      "align": 1,
+      "spacing": 0,
+      "imageList": [
+        "aod-digit-0",
+        "aod-digit-1",
+        "aod-digit-2",
+        "aod-digit-3",
+        "aod-digit-4",
+        "aod-digit-5",
+        "aod-digit-6",
+        "aod-digit-7",
+        "aod-digit-8",
+        "aod-digit-9"
+      ]
+    },
+    {
+      "type": "element",
+      "x": 158,
+      "y": 358,
+      "image": "aod-colon"
+    },
+    {
+      "type": "widge_dignum",
+      "x": 178,
+      "y": 358,
+      "dataSrc": "1011",
+      "showCount": 2,
+      "showZero": true,
+      "align": 1,
+      "spacing": 0,
+      "imageList": [
+        "aod-digit-0",
+        "aod-digit-1",
+        "aod-digit-2",
+        "aod-digit-3",
+        "aod-digit-4",
+        "aod-digit-5",
+        "aod-digit-6",
+        "aod-digit-7",
+        "aod-digit-8",
+        "aod-digit-9"
+      ]
+    }
+  ],
+  "headerFlags": 4
+}
