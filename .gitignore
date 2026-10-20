@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+.env
+.env.*
+build/
+dist/
+private/
+*.bin
+*.zip
+*.log
