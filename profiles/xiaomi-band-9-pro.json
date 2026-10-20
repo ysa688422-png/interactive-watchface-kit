@@ -1,0 +1,20 @@
+{
+  "id": "xiaomi-band-9-pro",
+  "platform": "xiaomi-n67",
+  "device": "n67",
+  "width": 336,
+  "height": 480,
+  "normal_art_height": 432,
+  "firmware_reference": "3.1.1.90",
+  "hardware_status": "Host validation only for final AOD fix; device verification required",
+  "aod_header_flags": 4,
+  "native_digit_align_left": 1,
+  "heart_rate_threshold": 120,
+  "features": {
+    "lua": true,
+    "tap_toggle": true,
+    "automatic_animation": true,
+    "latest_heart_rate_condition": true,
+    "native_static_aod": true
+  }
+}
