@@ -1,0 +1,14 @@
+{
+  "name": "Apple Watch Photos — generic portrait 4:5",
+  "width": 1000,
+  "height": 1250,
+  "top_safe_fraction": 0.28,
+  "bottom_safe_fraction": 0.06,
+  "padding_fraction": 0.08,
+  "background_top": "#EDE6F4",
+  "background_bottom": "#B8A0CC",
+  "trim_transparent": true,
+  "watch_model": "unspecified",
+  "watchos_version": "unspecified",
+  "notes": "Generic export canvas, not a device resolution or Apple safe-area specification. Calibrate in the paired Watch app."
+}
