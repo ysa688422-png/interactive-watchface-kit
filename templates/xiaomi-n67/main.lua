@@ -412,7 +412,7 @@ function onDestroy()
 end
 -- Read-only, bounded diagnostics for host-side verification. No simulated data
 -- is injected into the watchface, and these fields are never shown on screen.
-function RezeBombDebug()
+function WatchfaceDebug()
     local events = {}
     for i, event in ipairs(state.log) do
         events[i] = { event = event.event, elapsed = event.elapsed, phase = event.phase }
